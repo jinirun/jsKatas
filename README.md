@@ -1,6 +1,7 @@
 # jsKatas
 
 ## Repository created to work out Java Script Katas on code wars
+(The source code can be found on the 'master' branch)
 
 ### What are code war Katas 
 * Codewars is an educational community for computer programming. 
